@@ -14,4 +14,6 @@ rm ./main.py
 git clone https://github.com/TonyCrane/mkdocs-toolchain.git
 uv add mkdocs-toolchain/mkdocs-toc-plugin/
 uv add git+https://github.com/KinnariyaMamaTanha/mkdocs-statistics-plugin.git
+
+uv add mkdocs-material # theme
 ```
