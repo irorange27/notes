@@ -1,0 +1,14 @@
+[project]
+name = "notes"
+version = "0.1.0"
+description = "Niina's notes"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mkdocs-statistics-plugin",
+    "mkdocs-toc-plugin",
+]
+
+[tool.uv.sources]
+mkdocs-toc-plugin = { path = "mkdocs-toolchain/mkdocs-toc-plugin" }
+mkdocs-statistics-plugin = { git = "https://github.com/KinnariyaMamaTanha/mkdocs-statistics-plugin" }
