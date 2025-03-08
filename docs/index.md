@@ -1,17 +1,29 @@
-# Welcome to MkDocs
+---
+hide:
+    - date
+    - navigation
+    - toc
+home: true
+nostatistics: true
+comments: false
+icon: material/home
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<!-- ezlinks: disable -->
 
-## Commands
+<br><br><br><br><br><br>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<h1 style="text-align: center;">
+<span style="font-size:50px;">
+Welcome to niina's notes!
+</span>
+</h1>
+
+<span style="display: block; text-align: center; font-size: 18px;">
+[:octicons-link-16: My friends!](https://blog.niina.fun/links) / 
+[:octicons-info-16: About Me](https://blog.niina.fun/about)
+<!-- [:material-chart-line: Statistics](javascript:toggle_statistics();) -->
+</span>
+
