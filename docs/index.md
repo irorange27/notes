@@ -26,4 +26,3 @@ Welcome to niina's notes!
 [:octicons-info-16: About Me](https://blog.niina.fun/about)
 <!-- [:material-chart-line: Statistics](javascript:toggle_statistics();) -->
 </span>
-
