@@ -2,14 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://niina.fun/notes/</loc>
-         <lastmod>2025-03-08</lastmod>
+         <lastmod>2025-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://niina.fun/notes/philosophy/</loc>
+         <lastmod>2025-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://niina.fun/notes/philosophy/ideology/%E5%A4%A7%E4%B8%89%E5%86%AC%E7%9A%84%E6%8B%96%E5%BB%B6/</loc>
+         <lastmod>2025-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://niina.fun/notes/philosophy/ideology/%E6%A0%A1%E5%8F%8B%E5%88%9D%E5%88%9B%E5%AE%9E%E4%B9%A0%E4%BD%93%E4%BC%9A/</loc>
+         <lastmod>2025-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://niina.fun/notes/philosophy/values/%E4%B8%96%E7%95%8C%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F/</loc>
+         <lastmod>2025-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://niina.fun/notes/philosophy/values/%E4%BA%BA%E6%98%AF%E5%BA%94%E8%AF%A5%E4%B8%BA%E4%BA%86%E4%BB%96%E4%BA%BA%E8%80%8C%E6%B4%BB/</loc>
+         <lastmod>2025-03-15</lastmod>
     </url>
     <url>
          <loc>https://niina.fun/notes/summaries/</loc>
-         <lastmod>2025-03-08</lastmod>
+         <lastmod>2025-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://niina.fun/notes/summaries/2025/weekly/s2_11-w10/</loc>
+         <lastmod>2025-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://niina.fun/notes/summaries/2025/weekly/s2_12-w11/</loc>
+         <lastmod>2025-03-15</lastmod>
     </url>
     <url>
          <loc>https://niina.fun/notes/tags/</loc>
-         <lastmod>2025-03-08</lastmod>
+         <lastmod>2025-03-15</lastmod>
     </url>
 </urlset>
